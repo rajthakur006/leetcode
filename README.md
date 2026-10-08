@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rajthakur006/leetcode/tree/master/0136-single-number) |
+| [0704-binary-search](https://github.com/rajthakur006/leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/rajthakur006/leetcode/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/rajthakur006/leetcode/tree/master/0912-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/rajthakur006/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
