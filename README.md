@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajthakur006/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/rajthakur006/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajthakur006/leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/rajthakur006/leetcode/tree/master/0136-single-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rajthakur006/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajthakur006/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/rajthakur006/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajthakur006/leetcode/tree/master/0035-search-insert-position) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rajthakur006/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/rajthakur006/leetcode/tree/master/0704-binary-search) |
