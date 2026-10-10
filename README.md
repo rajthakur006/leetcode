@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajthakur006/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/rajthakur006/leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/rajthakur006/leetcode/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/rajthakur006/leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/rajthakur006/leetcode/tree/master/0912-sort-an-array) |
@@ -53,5 +54,6 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajthakur006/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/rajthakur006/leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/rajthakur006/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
