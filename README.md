@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/rajthakur006/leetcode/tree/master/0035-search-insert-position) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajthakur006/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/rajthakur006/leetcode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajthakur006/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/rajthakur006/leetcode/tree/master/0164-maximum-gap) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rajthakur006/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/rajthakur006/leetcode/tree/master/0327-count-of-range-sum) |
@@ -73,6 +74,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/rajthakur006/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajthakur006/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajthakur006/leetcode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajthakur006/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rajthakur006/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/rajthakur006/leetcode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/rajthakur006/leetcode/tree/master/0493-reverse-pairs) |
