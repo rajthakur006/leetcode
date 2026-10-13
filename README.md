@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/rajthakur006/leetcode/tree/master/0035-search-insert-position) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajthakur006/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/rajthakur006/leetcode/tree/master/0136-single-number) |
+| [0164-maximum-gap](https://github.com/rajthakur006/leetcode/tree/master/0164-maximum-gap) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rajthakur006/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/rajthakur006/leetcode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/rajthakur006/leetcode/tree/master/0493-reverse-pairs) |
@@ -38,6 +39,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/rajthakur006/leetcode/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/rajthakur006/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -53,10 +55,12 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/rajthakur006/leetcode/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/rajthakur006/leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/rajthakur006/leetcode/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/rajthakur006/leetcode/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
@@ -105,4 +109,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajthakur006/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/rajthakur006/leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
