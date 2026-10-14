@@ -115,4 +115,12 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/rajthakur006/leetcode/tree/master/0164-maximum-gap) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rajthakur006/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rajthakur006/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
