@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajthakur006/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/rajthakur006/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rajthakur006/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/rajthakur006/leetcode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/rajthakur006/leetcode/tree/master/0493-reverse-pairs) |
@@ -45,10 +46,12 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rajthakur006/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/rajthakur006/leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rajthakur006/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rajthakur006/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/rajthakur006/leetcode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/rajthakur006/leetcode/tree/master/0493-reverse-pairs) |
@@ -119,6 +122,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajthakur006/leetcode/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/rajthakur006/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/rajthakur006/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -129,4 +133,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajthakur006/leetcode/tree/master/0002-add-two-numbers) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rajthakur006/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
