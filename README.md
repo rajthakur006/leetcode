@@ -24,6 +24,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rajthakur006/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/rajthakur006/leetcode/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/rajthakur006/leetcode/tree/master/0344-reverse-string) |
 ## String
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajthakur006/leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rajthakur006/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/rajthakur006/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/rajthakur006/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/rajthakur006/leetcode/tree/master/0206-reverse-linked-list) |
