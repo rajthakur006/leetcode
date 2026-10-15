@@ -129,6 +129,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/rajthakur006/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/rajthakur006/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/rajthakur006/leetcode/tree/master/0206-reverse-linked-list) |
+| [0460-lfu-cache](https://github.com/rajthakur006/leetcode/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -147,8 +148,17 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rajthakur006/leetcode/tree/master/0141-linked-list-cycle) |
+| [0460-lfu-cache](https://github.com/rajthakur006/leetcode/tree/master/0460-lfu-cache) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rajthakur006/leetcode/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/rajthakur006/leetcode/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/rajthakur006/leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
