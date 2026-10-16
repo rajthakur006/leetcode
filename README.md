@@ -102,6 +102,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rajthakur006/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/rajthakur006/leetcode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/rajthakur006/leetcode/tree/master/0493-reverse-pairs) |
+| [0895-maximum-frequency-stack](https://github.com/rajthakur006/leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Treap
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0141-linked-list-cycle](https://github.com/rajthakur006/leetcode/tree/master/0141-linked-list-cycle) |
 | [0432-all-oone-data-structure](https://github.com/rajthakur006/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/rajthakur006/leetcode/tree/master/0460-lfu-cache) |
+| [0895-maximum-frequency-stack](https://github.com/rajthakur006/leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -160,9 +162,14 @@
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/rajthakur006/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/rajthakur006/leetcode/tree/master/0460-lfu-cache) |
+| [0895-maximum-frequency-stack](https://github.com/rajthakur006/leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/rajthakur006/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/rajthakur006/leetcode/tree/master/0460-lfu-cache) |
+## Stack
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/rajthakur006/leetcode/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
