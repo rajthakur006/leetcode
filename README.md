@@ -16,6 +16,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rajthakur006/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/rajthakur006/leetcode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/rajthakur006/leetcode/tree/master/0493-reverse-pairs) |
+| [0622-design-circular-queue](https://github.com/rajthakur006/leetcode/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/rajthakur006/leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/rajthakur006/leetcode/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
@@ -134,6 +135,7 @@
 | [0206-reverse-linked-list](https://github.com/rajthakur006/leetcode/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/rajthakur006/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/rajthakur006/leetcode/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/rajthakur006/leetcode/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/rajthakur006/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/rajthakur006/leetcode/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/rajthakur006/leetcode/tree/master/0622-design-circular-queue) |
 | [0895-maximum-frequency-stack](https://github.com/rajthakur006/leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Doubly-Linked List
 |  |
@@ -177,4 +180,8 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rajthakur006/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0895-maximum-frequency-stack](https://github.com/rajthakur006/leetcode/tree/master/0895-maximum-frequency-stack) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/rajthakur006/leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
