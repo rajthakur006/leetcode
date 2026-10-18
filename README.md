@@ -184,4 +184,16 @@
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/rajthakur006/leetcode/tree/master/0622-design-circular-queue) |
+## Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/rajthakur006/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/rajthakur006/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/rajthakur006/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
