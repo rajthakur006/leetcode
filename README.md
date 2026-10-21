@@ -125,6 +125,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajthakur006/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rajthakur006/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -200,6 +201,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rajthakur006/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rajthakur006/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rajthakur006/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rajthakur006/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rajthakur006/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -213,6 +215,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rajthakur006/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rajthakur006/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rajthakur006/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rajthakur006/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rajthakur006/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
@@ -223,10 +226,15 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rajthakur006/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rajthakur006/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rajthakur006/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajthakur006/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rajthakur006/leetcode/tree/master/0347-top-k-frequent-elements) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rajthakur006/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
