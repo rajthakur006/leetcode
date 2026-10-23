@@ -30,6 +30,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rajthakur006/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/rajthakur006/leetcode/tree/master/0141-linked-list-cycle) |
+| [0295-find-median-from-data-stream](https://github.com/rajthakur006/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/rajthakur006/leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -52,6 +53,7 @@
 | ------- |
 | [0164-maximum-gap](https://github.com/rajthakur006/leetcode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajthakur006/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/rajthakur006/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/rajthakur006/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/rajthakur006/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -59,6 +61,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rajthakur006/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajthakur006/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/rajthakur006/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/rajthakur006/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/rajthakur006/leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -179,6 +182,7 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/rajthakur006/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rajthakur006/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0432-all-oone-data-structure](https://github.com/rajthakur006/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/rajthakur006/leetcode/tree/master/0460-lfu-cache) |
@@ -243,4 +247,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajthakur006/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/rajthakur006/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
