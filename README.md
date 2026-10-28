@@ -246,6 +246,7 @@
 | [0207-course-schedule](https://github.com/rajthakur006/leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rajthakur006/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rajthakur006/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/rajthakur006/leetcode/tree/master/1192-critical-connections-in-a-network) |
 ## Quickselect
 |  |
 | ------- |
@@ -271,6 +272,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rajthakur006/leetcode/tree/master/0207-course-schedule) |
+| [1192-critical-connections-in-a-network](https://github.com/rajthakur006/leetcode/tree/master/1192-critical-connections-in-a-network) |
 ## Topological Sort
 |  |
 | ------- |
@@ -291,4 +293,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rajthakur006/leetcode/tree/master/0239-sliding-window-maximum) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/rajthakur006/leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/rajthakur006/leetcode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
