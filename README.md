@@ -248,6 +248,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rajthakur006/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0733-flood-fill](https://github.com/rajthakur006/leetcode/tree/master/0733-flood-fill) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/rajthakur006/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1971-find-if-path-exists-in-graph](https://github.com/rajthakur006/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -260,6 +261,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rajthakur006/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0733-flood-fill](https://github.com/rajthakur006/leetcode/tree/master/0733-flood-fill) |
 | [1192-critical-connections-in-a-network](https://github.com/rajthakur006/leetcode/tree/master/1192-critical-connections-in-a-network) |
+| [1971-find-if-path-exists-in-graph](https://github.com/rajthakur006/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Quickselect
 |  |
 | ------- |
@@ -277,6 +279,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rajthakur006/leetcode/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/rajthakur006/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -288,6 +291,7 @@
 | [0207-course-schedule](https://github.com/rajthakur006/leetcode/tree/master/0207-course-schedule) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/rajthakur006/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1192-critical-connections-in-a-network](https://github.com/rajthakur006/leetcode/tree/master/1192-critical-connections-in-a-network) |
+| [1971-find-if-path-exists-in-graph](https://github.com/rajthakur006/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
