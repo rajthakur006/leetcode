@@ -39,6 +39,7 @@
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rajthakur006/leetcode/tree/master/0044-wildcard-matching) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rajthakur006/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/rajthakur006/leetcode/tree/master/0344-reverse-string) |
 ## Divide and Conquer
@@ -133,6 +134,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rajthakur006/leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajthakur006/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajthakur006/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/rajthakur006/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -140,6 +142,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rajthakur006/leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajthakur006/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Pigeonhole Principle
 |  |
@@ -167,6 +170,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/rajthakur006/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rajthakur006/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rajthakur006/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/rajthakur006/leetcode/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/rajthakur006/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rajthakur006/leetcode/tree/master/0206-reverse-linked-list) |
 ## Math
