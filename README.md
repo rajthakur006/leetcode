@@ -136,6 +136,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajthakur006/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajthakur006/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/rajthakur006/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0968-binary-tree-cameras](https://github.com/rajthakur006/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Greedy
 |  |
 | ------- |
@@ -226,6 +227,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rajthakur006/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rajthakur006/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rajthakur006/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0968-binary-tree-cameras](https://github.com/rajthakur006/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -242,6 +244,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rajthakur006/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rajthakur006/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rajthakur006/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0968-binary-tree-cameras](https://github.com/rajthakur006/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -264,6 +267,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rajthakur006/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rajthakur006/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0733-flood-fill](https://github.com/rajthakur006/leetcode/tree/master/0733-flood-fill) |
+| [0968-binary-tree-cameras](https://github.com/rajthakur006/leetcode/tree/master/0968-binary-tree-cameras) |
 | [1192-critical-connections-in-a-network](https://github.com/rajthakur006/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rajthakur006/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Quickselect
@@ -275,6 +279,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajthakur006/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0968-binary-tree-cameras](https://github.com/rajthakur006/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Data Stream
 |  |
 | ------- |
